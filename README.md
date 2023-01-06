@@ -1,2 +1,3 @@
 # ME412_AutonomousMobileRobots
-Source Code for ME412 Autonomous Mobile Robots
+
+The objective of the course is to build a mobile robot capable of competing in a competitive robot tank battle game. This course introduces basic concepts, technologies, and limitations of autonomous mobile robots. Topics include digital and analog I/O, tactile sensing, IR sensing and range finding, light sensing, sonar, magnetic field sensing, inertia sensing, encoders, electric motor actuators, high-level microprocessor control, low-level microprocessor control, power management, and prototyping.  Students will form teams to design and build autonomous mobile robots configured to compete in a singles-match game, or to perform a team-oriented task.  During the semester, students are expected to demonstrate progress on the development of their robot and complete project assignments that will lead to the final competition-ready robot and accompanying quality research paper.
